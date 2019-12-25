@@ -1,7 +1,8 @@
 package tennis.game;
 
-public class Matchtennis {
-	Tennisgame game = new Tennisgame();
+// pour simuler un match de tennis
+public class Match {
+	Game game = new Game();
 	int player1setgagne = 0;
 	int player2setgagne = 0;
 	

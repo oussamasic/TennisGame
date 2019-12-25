@@ -1,9 +1,11 @@
 package tennis.game;
 
-public class Settennis {
-	Matchtennis matchtenis = new Matchtennis();
+
+// pour simuler le set d'un match de tennis
+public class Set {
+	Match matchtenis = new Match();
 	Tiebreak tiebreak = new Tiebreak();
-	Tennisgame game = new Tennisgame();
+	Game game = new Game();
 	
    
 

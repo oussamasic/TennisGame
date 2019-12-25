@@ -1,7 +1,7 @@
 package tennis.game;
 
 public class Tiebreak {
-	Tennisgame game = new Tennisgame();
+	Game game = new Game();
 	int player1score = 0;
 	int player2score = 0;
 	

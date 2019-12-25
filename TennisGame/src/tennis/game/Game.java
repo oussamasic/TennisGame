@@ -1,6 +1,8 @@
 package tennis.game;
 
-public class Tennisgame {
+
+// pour simuler un game d'un set
+public class Game {
 	
 
 	
